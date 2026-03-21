@@ -101,5 +101,4 @@ python house_price_prediction.py
 
 
 kkk
-bhjkh
 
