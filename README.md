@@ -105,5 +105,3 @@ bhjkh
 kmk
 jju
 
-bhjj
-
