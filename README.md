@@ -94,5 +94,4 @@ python house_price_prediction.py
 
 
 
-yehbeveve
-hs
+ye
