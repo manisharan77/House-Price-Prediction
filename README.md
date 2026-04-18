@@ -96,5 +96,5 @@ python house_price_prediction.py
 
 yehbeveve
 hshsgwbevee
-ueuhehege
+u
 jjhbve
