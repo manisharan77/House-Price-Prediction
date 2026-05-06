@@ -93,6 +93,3 @@ python house_price_prediction.py
 - GitHub: [github.com/manisharan77](https://github.com/manisharan77)
 
 
-asrt
-erdfg
-tdsfg
